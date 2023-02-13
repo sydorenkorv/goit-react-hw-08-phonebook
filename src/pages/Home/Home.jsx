@@ -1,4 +1,4 @@
-import { Title, TitleFirst, TitleLast, ContainerHome } from './Home.styled';
+import { Title, TitleFirst, ContainerHome } from './Home.styled';
 
 const Home = () => (
   <ContainerHome>
